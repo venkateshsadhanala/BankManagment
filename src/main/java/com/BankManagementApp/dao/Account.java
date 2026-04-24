@@ -20,5 +20,5 @@ public class Account {
 	private String account_holder_name;
 	@Column
 	private Double account_balance;
-
+	private String mobileNumber;
 }
